@@ -32,7 +32,5 @@ public class Employee {
                 this.monthlySalary = monthlySalary;
             }
         }
-
-
     }
 

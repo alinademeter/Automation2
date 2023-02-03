@@ -13,7 +13,7 @@ public class Body_Mass_33 {
         weightinKilograms = input.nextInt();
         System.out.print("Enter your height: ");
         heightinMeters = input.nextInt();
-        System.out.print();
+        System.out.print("Enter your height: ");
 
     }
 }//

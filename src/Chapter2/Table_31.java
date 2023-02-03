@@ -28,7 +28,6 @@ int number1 = 0;
         System.out.printf("%d         %d       %d%n", number10, number10 * number10, number10 * number10 * number10);
         int number11 = 10;
         System.out.printf("%d         %d       %d%n", number11, number11 * number11, number11 * number11 * number11);
-
         int number12= 11;
         System.out.printf("%d         %d       %d%n", number12, number12 * number12, number12 * number12 * number12);
 
